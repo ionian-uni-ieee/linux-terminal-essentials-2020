@@ -9,6 +9,11 @@
 - [You don't need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
 - [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)
 
+#### Community
+- [Unix & Linux Stack Exchange](https://unix.stackexchange.com/)
+- [Manjaro Linux Forum](https://forum.manjaro.org/)
+- [AskUbuntu](https://askubuntu.com/)
+
 #### Extras
 
 - [Learn Vim](https://github.com/iggredible/Learn-Vim)
