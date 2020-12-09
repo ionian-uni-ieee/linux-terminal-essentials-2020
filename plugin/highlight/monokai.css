@@ -2,6 +2,10 @@
 Monokai style - ported by Luigi Maselli - http://grigio.org
 */
 
+.white-text span {
+  color: white !important;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
