@@ -1,6 +1,6 @@
 # Linux & Terminal Essentials Webinar
 
-Αυτό το Repository περιέχει την παρουσίαση που έγινε στο "Linux & Terminal Essentials Webinar". Μπορείτε να δείτε την παρουσίαση [εδώ](https://link-later). 
+Αυτό το Repository περιέχει την παρουσίαση που έγινε στο "Linux & Terminal Essentials Webinar". Μπορείτε να δείτε την παρουσίαση [εδώ](https://ionian-uni-ieee.github.io/linux-terminal-essentials-2020/). 
 
 ![](./assets/poster.png)
 ## Χρήσιμα Links
